@@ -2,7 +2,7 @@
 
 [in English](./README.md)
 
-<img src="README/cover.jpg" width=50% center=true>
+<img src="README/cover.jpg" width=50%>
 
 ## 简介
 
