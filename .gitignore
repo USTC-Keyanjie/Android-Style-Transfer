@@ -1,2 +1,3 @@
 app/src/main/assets
 .DS_Store
+*.pb
