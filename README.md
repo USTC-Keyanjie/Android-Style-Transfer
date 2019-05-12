@@ -2,7 +2,7 @@
 
 [in Chinese](./README_zh.md)
 
-<img src="README/cover.jpg" width=50% align="middle">
+<img align="middle" src="README/cover.jpg" width=50%>
 
 ## Introduction
 
