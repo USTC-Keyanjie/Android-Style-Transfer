@@ -8,7 +8,7 @@
 
 This project implements the Style Transfer app on the Android platform, which can transfer the style of one picture to another picture to generate a new picture.
 
-![image-20190512153221932](README/presentation.png)
+![presentation](README/presentation.png)
 
 ## How to install
 
