@@ -8,7 +8,7 @@
 
 此项目在安卓平台上实现了风格迁移（Style Transfer）APP，可以把一张图片的风格迁移至另一张图片上，从而生成新的图片。
 
-![image-20190512153221932](README/presentation.png)
+![presentation](README/presentation.png)
 
 ## 安装方法
 
