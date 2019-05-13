@@ -1,4 +1,4 @@
-# Android-Style-Transfer
+# Style Transfer - Android App
 
 [in Chinese](./README_zh.md)
 
