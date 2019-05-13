@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project implements the Style Transfer app on the Android platform, which can transfer the style of one picture to another picture to generate a new picture.
+This project implements the Style Transfer app on the Android platform, which can generate new art work that combines style of one picture with content of another one.
 
 ![presentation](README/presentation.png)
 
