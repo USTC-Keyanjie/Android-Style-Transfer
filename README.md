@@ -24,7 +24,7 @@ The following are only recommended configurations, and the minimum configuration
 - Storage capacity: 256M or more recommended
 - Memory: 4G or more recommended
 
-It is known that insufficient memory will cause OOM errors, and there will be an error under Android 8.0.
+It is known that insufficient memory will cause OOM error, and there will be a possibility of running errors when the operating system version is lower than Android 8.0.
 
 ## License
 
