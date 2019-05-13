@@ -12,7 +12,7 @@ This project implements the Style Transfer app on the Android platform, which ca
 
 ## How to install
 
-- You can download this APP via [百度云](https://pan.baidu.com/s/1015CjFUm7IxDgTaCmqRLFg) or [OneDrive](https://mailustceducn-my.sharepoint.com/:u:/g/personal/keyanjie_mail_ustc_edu_cn/EffSlFEd0pBIr4K0CF_-7icBIRuTL4RAIhRRhUgmroarAQ?e=pZn3vu)
+- You can download this APP via [BaiduCloud](https://pan.baidu.com/s/1015CjFUm7IxDgTaCmqRLFg) or [OneDrive](https://mailustceducn-my.sharepoint.com/:u:/g/personal/keyanjie_mail_ustc_edu_cn/EffSlFEd0pBIr4K0CF_-7icBIRuTL4RAIhRRhUgmroarAQ?e=pZn3vu)
 - Git clone this project and import it into Android Studio, then you can generate an apk file by yourself
 
 ## Operating Environment
