@@ -1,4 +1,4 @@
-# 风格迁移 - 安卓APP
+# 风格迁移 - 安卓App
 
 [in English](./README.md)
 
