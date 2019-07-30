@@ -5,3 +5,4 @@ app/.DS_Store
 .DS_Store
 .gradle/
 .idea/
+*.DS_Store
